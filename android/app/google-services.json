@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493195722916",
+    "project_id": "delicia-work",
+    "storage_bucket": "delicia-work.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493195722916:android:0527c2d8a07dd7f666e631",
+        "android_client_info": {
+          "package_name": "com.example.delicia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493195722916-9p8buc8jd3rh553nf3ff2s7cvua45vdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABhZUTse3vgi0sLatEEA47KHV5UfDcwZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493195722916-9p8buc8jd3rh553nf3ff2s7cvua45vdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

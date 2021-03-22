@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">493195722916-9p8buc8jd3rh553nf3ff2s7cvua45vdi.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">493195722916</string>
+    <string name="google_api_key" translatable="false">AIzaSyABhZUTse3vgi0sLatEEA47KHV5UfDcwZU</string>
+    <string name="google_app_id" translatable="false">1:493195722916:android:0527c2d8a07dd7f666e631</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyABhZUTse3vgi0sLatEEA47KHV5UfDcwZU</string>
+    <string name="google_storage_bucket" translatable="false">delicia-work.appspot.com</string>
+    <string name="project_id" translatable="false">delicia-work</string>
+</resources>

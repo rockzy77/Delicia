@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/1f55a8d9752f1c30f3b5e03ae349aed3/appcompat-1.1.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

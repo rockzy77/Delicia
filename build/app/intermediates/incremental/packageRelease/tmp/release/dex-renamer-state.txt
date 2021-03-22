@@ -1,0 +1,4 @@
+#Sun Mar 21 23:42:59 IST 2021
+base.0=/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

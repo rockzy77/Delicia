@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/fluttertoast/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/fluttertoast/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/fluttertoast/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/fluttertoast/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

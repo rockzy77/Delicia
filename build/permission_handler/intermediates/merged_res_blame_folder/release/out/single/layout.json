@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/permission_handler/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/permission_handler/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/permission_handler/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/permission_handler/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/permission_handler/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/permission_handler/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    }
+]

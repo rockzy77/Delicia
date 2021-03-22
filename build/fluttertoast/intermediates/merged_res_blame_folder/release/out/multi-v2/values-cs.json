@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/fluttertoast/intermediates/res/merged/release/values-cs/values-cs.xml",
+            "map": [
+                {
+                    "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/rockzy/ea25a35d-3a60-4049-9a66-c3b33bf8ee3c/Files/ASF/delicia/build/fluttertoast/intermediates/incremental/mergeReleaseResources/merged.dir/values-cs/values-cs.xml",
+            "map": [
+                {
+                    "source": "/home/rockzy/.gradle/caches/transforms-2/files-2.1/4600e27e70f6025c2b0e0121769e6282/core-1.1.0/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
